@@ -1,3 +1,55 @@
-h1 {
-  color: red;
+.container
+{
+    width:100%;
+    height:90%;
+
+
+}
+body{
+    background-color:  #393E46;
+}
+h1
+{
+   
+    font-size: 8rem;
+    color:#4ECCA3;
+    text-align: center;
+    font-family: "Lobster", sans-serif;
+   font-style: normal;
+   text-shadow:4px 5px rgb(58, 57, 57);
+   margin-top:30px;
+   
+}
+.headdice
+{
+    display:flex;
+    flex-direction:row;
+    
+    justify-content: center;
+    align-items: center;
+    
+}
+.dice{
+    margin-left:70px;
+}
+p{
+    text-align: center;
+    font-size: 2rem;
+    color:#4ECCA3;
+    font-family: 'Indie Flower', cursive;
+
+}
+img{
+    
+    
+    width:80%;
+    
+}
+footer{
+    margin-top:5%;
+    text-align: center;
+    font-size: 1.5rem;
+    color:white;
+    font-family: 'Indie Flower', cursive;
+
 }
